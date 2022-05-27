@@ -1,1 +1,1 @@
-# OpenPolicyAgent-Test-Python
+# OpenPolicyAgent-Test
